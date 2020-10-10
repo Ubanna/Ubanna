@@ -32,6 +32,4 @@ I am passionate about the application of data science in solving business and re
 
 <br />
 
-[website]: https://ubannadanekeh.com
-[twitter]: https://twitter.com/danekeh
-[linkedin]: https://www.linkedin.com/in/ubanna/
+---
